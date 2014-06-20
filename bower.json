@@ -1,8 +1,6 @@
 {
   "name": "lib2",
-  "version": "3.0.0",
   "dependencies": {
-    "lib3": "git://github.com/scf2k/lib3",
-    "lib1": "git://github.com/scf2k/lib1"
+    "lib5": "git://github.com/scf2k/lib5"
   }
 }
