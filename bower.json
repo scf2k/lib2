@@ -1,5 +1,5 @@
 {
-  "name": "lib2,
+  "name": "lib2",
   "version": "3.0.0",
   "dependencies": {
     "lib3 "git://github.com/scf2k/lib3"
